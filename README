@@ -1,3 +1,19 @@
+About this fork
+---------------
+This fork contains few changes that focus on Korean users... and me.
+
+It's dangerous to go alone! Take these:
+
+* D2Coding (https://github.com/naver/d2codingfont)
+
+
+Changes
+-------
+
+* Font has been changed to D2Coding
+* Add scollback (https://st.suckless.org/patches/scrollback)
+
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
